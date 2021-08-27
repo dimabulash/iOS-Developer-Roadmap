@@ -21,3 +21,13 @@ Here is my collection of information sources
 
 [How to become an iOS developer](https://github.com/pitt500/how-to-become-an-ios-developer)
 
+------
+
+### iOS Roadmap
+
+![](https://github.com/dimabulash/iOS-Developer-Roadmap/blob/main/images/iosRoadmap.png)
+
+### Swift Roadmap
+
+![](https://github.com/dimabulash/iOS-Developer-Roadmap/blob/main/images/swiftRoadmap.png)
+
